@@ -23,6 +23,8 @@ Planty of Food è un backend RESTful per la gestione di Gruppi di Acquisto Solid
 
 ## 🚀 Installazione e Utilizzo
 
+> **Attenzione:** Il file `.env` NON va caricato su GitHub. Usa `.env.example` come base e aggiungi i tuoi segreti solo in locale.
+
 ### Requisiti Preliminari
 
 - Node.js (v14.x o superiore)
@@ -82,7 +84,7 @@ POF Planty of Food/
 │   └── ordini.test.js
 ├── migrations.sql
 ├── package.json
-├── .env
+├── .env         # Solo locale, NON versionare
 └── README.md
 ```
 
@@ -126,6 +128,14 @@ POF Planty of Food/
 - Documentazione API con Swagger/OpenAPI
 - Miglioramento logging e gestione errori
 - Deploy su cloud
+
+## 📄 .gitignore
+
+Questo progetto include un file `.gitignore` per evitare di caricare su GitHub file sensibili o inutili:
+
+- `.env` e varianti
+- `node_modules/`
+- log, cache, file temporanei
 
 ## 📜 Licenza
 
@@ -163,6 +173,8 @@ Planty of Food è un backend RESTful per la gestione di Gruppi di Acquisto Solid
 
 ## 🚀 Installazione e Utilizzo
 
+> **Attenzione:** Il file `.env` NON va caricato su GitHub. Usa `.env.example` come base e aggiungi i tuoi segreti solo in locale.
+
 ### Requisiti Preliminari
 
 - Node.js (v14.x o superiore)
@@ -222,7 +234,7 @@ POF Planty of Food/
 │   └── ordini.test.js
 ├── migrations.sql
 ├── package.json
-├── .env.example
+├── .env         # Solo locale, NON versionare.example
 └── README.md
 ```
 
@@ -266,6 +278,14 @@ POF Planty of Food/
 - Documentazione API con Swagger/OpenAPI
 - Miglioramento logging e gestione errori
 - Deploy su cloud
+
+## 📄 .gitignore
+
+Questo progetto include un file `.gitignore` per evitare di caricare su GitHub file sensibili o inutili:
+
+- `.env` e varianti
+- `node_modules/`
+- log, cache, file temporanei
 
 ## 📜 Licenza
 
@@ -300,6 +320,8 @@ Planty of Food è un backend RESTful per la gestione di Gruppi di Acquisto Solid
 
 ## 🚀 Installazione e Utilizzo
 
+> **Attenzione:** Il file `.env` NON va caricato su GitHub. Usa `.env.example` come base e aggiungi i tuoi segreti solo in locale.
+
 ### Requisiti Preliminari
 
 - Node.js (v14.x o superiore)
@@ -359,7 +381,7 @@ POF Planty of Food/
 │   └── ordini.test.js
 ├── migrations.sql
 ├── package.json
-├── .env.example
+├── .env         # Solo locale, NON versionare.example
 └── README.md
 ```
 
@@ -403,6 +425,14 @@ POF Planty of Food/
 - Documentazione API con Swagger/OpenAPI
 - Miglioramento logging e gestione errori
 - Deploy su cloud
+
+## 📄 .gitignore
+
+Questo progetto include un file `.gitignore` per evitare di caricare su GitHub file sensibili o inutili:
+
+- `.env` e varianti
+- `node_modules/`
+- log, cache, file temporanei
 
 ## 📜 Licenza
 
@@ -443,6 +473,8 @@ Planty of Food è un backend RESTful per la gestione di Gruppi di Acquisto Solid
 
 ## 🚀 Installazione e Utilizzo
 
+> **Attenzione:** Il file `.env` NON va caricato su GitHub. Usa `.env.example` come base e aggiungi i tuoi segreti solo in locale.
+
 ### Requisiti Preliminari
 
 - Node.js (v14.x o superiore)
@@ -502,7 +534,7 @@ POF Planty of Food/
 │   └── ordini.test.js
 ├── migrations.sql
 ├── package.json
-├── .env.example
+├── .env         # Solo locale, NON versionare.example
 └── README.md
 ```
 
@@ -546,6 +578,14 @@ POF Planty of Food/
 - Documentazione API con Swagger/OpenAPI
 - Miglioramento logging e gestione errori
 - Deploy su cloud
+
+## 📄 .gitignore
+
+Questo progetto include un file `.gitignore` per evitare di caricare su GitHub file sensibili o inutili:
+
+- `.env` e varianti
+- `node_modules/`
+- log, cache, file temporanei
 
 ## 📜 Licenza
 
@@ -580,6 +620,8 @@ Planty of Food è un backend RESTful per la gestione di Gruppi di Acquisto Solid
 
 ## 🚀 Installazione e Utilizzo
 
+> **Attenzione:** Il file `.env` NON va caricato su GitHub. Usa `.env.example` come base e aggiungi i tuoi segreti solo in locale.
+
 ### Requisiti Preliminari
 
 - Node.js (v14.x o superiore)
@@ -639,7 +681,7 @@ POF Planty of Food/
 │   └── ordini.test.js
 ├── migrations.sql
 ├── package.json
-├── .env.example
+├── .env         # Solo locale, NON versionare.example
 └── README.md
 ```
 
@@ -683,6 +725,14 @@ POF Planty of Food/
 - Documentazione API con Swagger/OpenAPI
 - Miglioramento logging e gestione errori
 - Deploy su cloud
+
+## 📄 .gitignore
+
+Questo progetto include un file `.gitignore` per evitare di caricare su GitHub file sensibili o inutili:
+
+- `.env` e varianti
+- `node_modules/`
+- log, cache, file temporanei
 
 ## 📜 Licenza
 
@@ -717,6 +767,8 @@ Planty of Food è un backend RESTful per la gestione di Gruppi di Acquisto Solid
 
 ## 🚀 Installazione e Utilizzo
 
+> **Attenzione:** Il file `.env` NON va caricato su GitHub. Usa `.env.example` come base e aggiungi i tuoi segreti solo in locale.
+
 ### Requisiti Preliminari
 
 - Node.js (v14.x o superiore)
@@ -776,7 +828,7 @@ POF Planty of Food/
 │   └── ordini.test.js
 ├── migrations.sql
 ├── package.json
-├── .env.example
+├── .env         # Solo locale, NON versionare.example
 └── README.md
 ```
 
@@ -820,6 +872,14 @@ POF Planty of Food/
 - Documentazione API con Swagger/OpenAPI
 - Miglioramento logging e gestione errori
 - Deploy su cloud
+
+## 📄 .gitignore
+
+Questo progetto include un file `.gitignore` per evitare di caricare su GitHub file sensibili o inutili:
+
+- `.env` e varianti
+- `node_modules/`
+- log, cache, file temporanei
 
 ## 📜 Licenza
 
@@ -854,6 +914,8 @@ Planty of Food è un backend RESTful per la gestione di Gruppi di Acquisto Solid
 
 ## 🚀 Installazione e Utilizzo
 
+> **Attenzione:** Il file `.env` NON va caricato su GitHub. Usa `.env.example` come base e aggiungi i tuoi segreti solo in locale.
+
 ### Requisiti Preliminari
 
 - Node.js (v14.x o superiore)
@@ -913,7 +975,7 @@ POF Planty of Food/
 │   └── ordini.test.js
 ├── migrations.sql
 ├── package.json
-├── .env.example
+├── .env         # Solo locale, NON versionare.example
 └── README.md
 ```
 
@@ -957,6 +1019,14 @@ POF Planty of Food/
 - Documentazione API con Swagger/OpenAPI
 - Miglioramento logging e gestione errori
 - Deploy su cloud
+
+## 📄 .gitignore
+
+Questo progetto include un file `.gitignore` per evitare di caricare su GitHub file sensibili o inutili:
+
+- `.env` e varianti
+- `node_modules/`
+- log, cache, file temporanei
 
 ## 📜 Licenza
 
@@ -991,6 +1061,8 @@ Planty of Food è un backend RESTful per la gestione di Gruppi di Acquisto Solid
 
 ## 🚀 Installazione e Utilizzo
 
+> **Attenzione:** Il file `.env` NON va caricato su GitHub. Usa `.env.example` come base e aggiungi i tuoi segreti solo in locale.
+
 ### Requisiti Preliminari
 
 - Node.js (v14.x o superiore)
@@ -1050,7 +1122,7 @@ POF Planty of Food/
 │   └── ordini.test.js
 ├── migrations.sql
 ├── package.json
-├── .env.example
+├── .env         # Solo locale, NON versionare.example
 └── README.md
 ```
 
@@ -1094,6 +1166,14 @@ POF Planty of Food/
 - Documentazione API con Swagger/OpenAPI
 - Miglioramento logging e gestione errori
 - Deploy su cloud
+
+## 📄 .gitignore
+
+Questo progetto include un file `.gitignore` per evitare di caricare su GitHub file sensibili o inutili:
+
+- `.env` e varianti
+- `node_modules/`
+- log, cache, file temporanei
 
 ## 📜 Licenza
 
@@ -1129,6 +1209,8 @@ Planty of Food è un backend RESTful per la gestione di Gruppi di Acquisto Solid
 
 ## 🚀 Installazione e Utilizzo
 
+> **Attenzione:** Il file `.env` NON va caricato su GitHub. Usa `.env.example` come base e aggiungi i tuoi segreti solo in locale.
+
 ### Requisiti Preliminari
 
 - Node.js (v14.x o superiore)
@@ -1188,7 +1270,7 @@ POF Planty of Food/
 │   └── ordini.test.js
 ├── migrations.sql
 ├── package.json
-├── .env.example
+├── .env         # Solo locale, NON versionare.example
 └── README.md
 ```
 
@@ -1232,6 +1314,14 @@ POF Planty of Food/
 - Documentazione API con Swagger/OpenAPI
 - Miglioramento logging e gestione errori
 - Deploy su cloud
+
+## 📄 .gitignore
+
+Questo progetto include un file `.gitignore` per evitare di caricare su GitHub file sensibili o inutili:
+
+- `.env` e varianti
+- `node_modules/`
+- log, cache, file temporanei
 
 ## 📜 Licenza
 
@@ -1270,6 +1360,8 @@ Planty of Food è un backend RESTful per la gestione di Gruppi di Acquisto Solid
 
 ## 🚀 Installazione e Utilizzo
 
+> **Attenzione:** Il file `.env` NON va caricato su GitHub. Usa `.env.example` come base e aggiungi i tuoi segreti solo in locale.
+
 ### Requisiti Preliminari
 
 - Node.js (v14.x o superiore)
@@ -1329,7 +1421,7 @@ POF Planty of Food/
 │   └── ordini.test.js
 ├── migrations.sql
 ├── package.json
-├── .env.example
+├── .env         # Solo locale, NON versionare.example
 └── README.md
 ```
 
@@ -1373,6 +1465,14 @@ POF Planty of Food/
 - Documentazione API con Swagger/OpenAPI
 - Miglioramento logging e gestione errori
 - Deploy su cloud
+
+## 📄 .gitignore
+
+Questo progetto include un file `.gitignore` per evitare di caricare su GitHub file sensibili o inutili:
+
+- `.env` e varianti
+- `node_modules/`
+- log, cache, file temporanei
 
 ## 📜 Licenza
 
@@ -1411,6 +1511,8 @@ Planty of Food è un backend RESTful per la gestione di Gruppi di Acquisto Solid
 
 ## 🚀 Installazione e Utilizzo
 
+> **Attenzione:** Il file `.env` NON va caricato su GitHub. Usa `.env.example` come base e aggiungi i tuoi segreti solo in locale.
+
 ### Requisiti Preliminari
 
 - Node.js (v14.x o superiore)
@@ -1470,7 +1572,7 @@ POF Planty of Food/
 │   └── ordini.test.js
 ├── migrations.sql
 ├── package.json
-├── .env.example
+├── .env         # Solo locale, NON versionare.example
 └── README.md
 ```
 
@@ -1514,6 +1616,14 @@ POF Planty of Food/
 - Documentazione API con Swagger/OpenAPI
 - Miglioramento logging e gestione errori
 - Deploy su cloud
+
+## 📄 .gitignore
+
+Questo progetto include un file `.gitignore` per evitare di caricare su GitHub file sensibili o inutili:
+
+- `.env` e varianti
+- `node_modules/`
+- log, cache, file temporanei
 
 ## 📜 Licenza
 
@@ -1566,6 +1676,8 @@ Planty of Food è un backend RESTful per la gestione di Gruppi di Acquisto Solid
 
 ## 🚀 Installazione e Utilizzo
 
+> **Attenzione:** Il file `.env` NON va caricato su GitHub. Usa `.env.example` come base e aggiungi i tuoi segreti solo in locale.
+
 ### Requisiti Preliminari
 
 - Node.js (v14.x o superiore)
@@ -1625,7 +1737,7 @@ POF Planty of Food/
 │   └── ordini.test.js
 ├── migrations.sql
 ├── package.json
-├── .env.example
+├── .env         # Solo locale, NON versionare.example
 └── README.md
 ```
 
@@ -1669,6 +1781,14 @@ POF Planty of Food/
 - Documentazione API con Swagger/OpenAPI
 - Miglioramento logging e gestione errori
 - Deploy su cloud
+
+## 📄 .gitignore
+
+Questo progetto include un file `.gitignore` per evitare di caricare su GitHub file sensibili o inutili:
+
+- `.env` e varianti
+- `node_modules/`
+- log, cache, file temporanei
 
 ## 📜 Licenza
 
