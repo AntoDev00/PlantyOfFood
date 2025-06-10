@@ -43,14 +43,15 @@ Planty of Food è un backend RESTful per la gestione di Gruppi di Acquisto Solid
    npm install
    ```
 3. Configura il file `.env`:
-   Copia `.env` in `.env` e inserisci i parametri del tuo MySQL:
+   Crea un nuovo file chiamato `.env` nella root del progetto e inserisci le seguenti variabili, sostituendo i valori con quelli del tuo ambiente:
+
    ```env
-   MYSQL_HOST=localhost
-   MYSQL_PORT=3306
-   MYSQL_DATABASE=pof_gas
-   MYSQL_USER=root
-   MYSQL_PASSWORD=
-   PORT=3000
+   MYSQL_HOST=tuo_host
+   MYSQL_PORT=porta_mysql
+   MYSQL_DATABASE=nome_database
+   MYSQL_USER=tuo_utente
+   MYSQL_PASSWORD=la_tua_password
+   PORT=porta_server
    ```
 4. Crea il database e le tabelle:
    - Avvia MySQL (es. tramite XAMPP)
